@@ -1,7 +1,7 @@
 require File.dirname(__FILE__) + "/lib/mail/version"
 
 Gem::Specification.new do |s|
-  s.name        = "mail"
+  s.name        = "dball-mail"
   s.version     = Mail::VERSION::STRING
   s.author      = "Mikel Lindsaar"
   s.email       = "raasdnil@gmail.com"
